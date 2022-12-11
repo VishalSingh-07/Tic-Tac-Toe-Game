@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe-Game/static/css/main.c8497e0f.css",
+    "main.js": "/Tic-Tac-Toe-Game/static/js/main.090da1f6.js",
+    "static/media/tic-tac-toe__.png": "/Tic-Tac-Toe-Game/static/media/tic-tac-toe__.d1c3928c4171a7324eb3.png",
+    "index.html": "/Tic-Tac-Toe-Game/index.html",
+    "main.c8497e0f.css.map": "/Tic-Tac-Toe-Game/static/css/main.c8497e0f.css.map",
+    "main.090da1f6.js.map": "/Tic-Tac-Toe-Game/static/js/main.090da1f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8497e0f.css",
+    "static/js/main.090da1f6.js"
+  ]
+}
